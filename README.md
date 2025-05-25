@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Ishan
 
 Welcome to my GitHub! I'm a robotics enthusiast who loves building, coding, and competing in high-level robotics challenges. From designing mechanisms to writing control systems, I’m passionate about pushing the limits of what robots can do.
 
