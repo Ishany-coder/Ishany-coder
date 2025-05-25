@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Ishan
+# 👋 Hi, I'm [**Ishan Ghosh**](https://ishanghosh.com)
 
-Welcome to my GitHub! I'm a robotics enthusiast who loves building, coding, and competing in high-level robotics challenges. From designing mechanisms to writing control systems, I’m passionate about pushing the limits of what robots can do.
+Welcome to my GitHub! I'm a robotics enthusiast, programmer, and web developer who loves building, coding, and solving real-world problems with technology. From competitive robots to custom websites, I’m passionate about creating things that make an impact.
 
 ---
 
-## 🤖 Robotics Journey
+## 🤖 [My Robotics Journey](https://theincredibots.com)
 
 - 🛠️ **FTC Robotics**  
   I'm the **driver** and **programming lead** for my FTC team. I write and manage the code that powers our robot—handling everything from autonomous routines to tele-op controls, sensors, and strategy systems.
@@ -16,20 +16,30 @@ Welcome to my GitHub! I'm a robotics enthusiast who loves building, coding, and 
   I'm mentoring **1 FTC team**, sharing what I’ve learned to help them grow as designers, programmers, and problem-solvers.
 
 - 🧠 **Collaboration Projects**  
-  I'm helping a friend code their FTC robot — working on autonomous routines and tele-op systems to get their bot competition-ready.
+  I'm also helping a friend code their FTC robot — working on autonomous routines and tele-op systems to get their bot competition-ready.
 
 - 🧇 **FLL Highlights**  
   Last year, I was part of an FLL team that **won the WPIS WAFFLE Award** at the World Festival — a huge honor that recognized our innovation and impact.
 
 ---
 
+## 💻 Web Development
+
+Alongside robotics, I also **design and build websites**. I created:
+- [**ishanghosh.com**](https://ishanghosh.com) – My personal portfolio  
+- [**theincredibots.com**](https://theincredibots.com) – My FTC team’s official website  
+
+I enjoy blending design with functionality to build fast, responsive, and clean websites using HTML, CSS, JavaScript, and modern frameworks.
+
+---
+
 ## 🔧 Side Projects
 
 - 🔁 **Differential Swerve Drive**  
-  I'm currently prototyping a **differential swerve drive**—a highly complex drivetrain that combines the agility of swerve with a lightweight design using minimal motors. This is one of my most challenging engineering projects yet.
+  I'm prototyping a **differential swerve drive**—a highly complex drivetrain that combines the agility of swerve with minimal motors. One of my most advanced mechanical builds.
 
 - 🌱 **Smart Flower Pot Watering System**  
-  I’m also working on launching a **small business** that builds **automated flower pot watering systems**. These smart planters use moisture sensors and microcontrollers to keep plants healthy—perfect for busy people or forgetful plant owners.
+  I’m working on launching a small business that builds **automated flower pot watering systems** using moisture sensors and microcontrollers—designed for people who forget to water their plants.
 
 ---
 
@@ -39,13 +49,14 @@ Welcome to my GitHub! I'm a robotics enthusiast who loves building, coding, and 
 - Real-time driver feedback and sensor-based adjustments  
 - Advanced drivetrain design (differential swerve)  
 - Launching a real-world robotics product  
-- Mentorship and collaboration across teams
+- Mentorship and collaboration across teams  
+- Custom website builds for robotics and personal projects
 
 ---
 
 ## 💡 Fun Fact
 
-I believe robotics is the perfect mix of creativity, engineering, and teamwork. Every project is a new challenge—and I love every part of it.
+I believe robotics and web development are both about creativity, engineering, and user experience. Every project is a new opportunity to invent something useful, smart, and cool.
 
 ---
 
